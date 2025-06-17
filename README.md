@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 [![](https://visitcount.itsvg.in/api?id=Abraline&icon=0&color=0)](https://visitcount.itsvg.in)
 
 - 🔭 I’m currently working on **a small project.**
 - 🌱 I’m currently learning **JAVA, JAVASCRIPT, HTML, and CSS**
