@@ -1,9 +1,16 @@
-## Hi there 👋 [![](https://visitcount.itsvg.in/api?id=Abraline&icon=0&color=0)](https://visitcount.itsvg.in)
+# Hi there, I'm Christine 👋  
 
-- 🔭 I’m currently working on **a small project.**
-- 🌱 I’m currently learning **JAVA, JAVASCRIPT, HTML, and CSS**
+I'm **Christine Abraline Sankely**, a passionate **UI/UX Designer and Frontend Developer** who loves building **smart systems and responsive digital experiences**.  
+I enjoy working with **Figma, HTML, CSS, Tailwind, Java, and JavaScript**, and exploring **IoT and Embedded Systems** to create innovative real-world solutions.
 
-  ## About Me
+### 🌱 About Me
+- 🎨 Skilled in **UI/UX design** using Figma  
+- 💻 Building responsive websites and apps with **HTML, CSS, Tailwind, Java, and JavaScript**  
+- ⚙️ Exploring **IoT and Embedded System projects**  
+- 🧠 Passionate about learning and improving software design and functionality  
+- 📘 Currently working on projects 
+- 🌍 Based in **Kigali, Rwanda**
+
   
 
 # 💻 Tech Stack:
