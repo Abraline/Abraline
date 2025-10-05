@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=ChristineSankely&color=blueviolet&style=for-the-badge)
+
 # Hi there, I'm Christine 👋  
 
 I'm **Christine Abraline Sankely**, a passionate **UI/UX Designer and Frontend Developer** who loves building **smart systems and responsive digital experiences**.  
